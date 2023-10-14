@@ -1,0 +1,22 @@
+---
+title: "Survival Analysis"
+format: html
+editor: visual
+---
+
+## Introduction
+
+Working through chapter 11:
+
+<https://bookdown.org/drki_musa/dataanalysis/survival-analysis-kaplan-meier-and-cox-proportional-hazard-ph-regression.html>
+
+```{r}
+install.packages("gtsummary")
+gtsummary: a package that give us a nice formatted tables of statistics
+tidyverse: a package for data wrangling and making plots
+lubridate : a package to manipulate dates
+survival: a package to run survival analysis.
+survminer: a package to plot survival objects
+broom: a package to make prettier outputs
+here :
+```
